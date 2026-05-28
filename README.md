@@ -1,5 +1,9 @@
 # Retail Sales Performance Dashboard (Excel)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijay%20Shah-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vijayshah07)
+[![GitHub](https://img.shields.io/badge/GitHub-ShahVjay-black?style=flat&logo=github)](https://github.com/ShahVjay)
+[![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green?style=flat&logo=microsoftexcel)](https://github.com/ShahVjay/Retail-Sales-Dashboard-Excel)
+
 ## Project Overview
 This project is an interactive **Retail Sales Performance Dashboard** built entirely in Microsoft Excel using the Superstore dataset. The dashboard helps analyze business performance across sales, profit, products, customer segments, shipping modes, and regional trends.
 
